@@ -1,0 +1,8 @@
+{
+  "name": "wallet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "fa860139"
+}
